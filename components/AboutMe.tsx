@@ -13,10 +13,10 @@ const AboutMe = () => {
         <p className="text-xl md:text-3xl font-medium md:leading-relaxed text-textColor">
           I'm{" "}
           <span className="font-bold tracking-wider text-white">
-            Sarah Jonson
+            Nzeh Favour
           </span>{" "}
           and I'm a freelance{" "}
-          <span className="font-bold text-white">Web Designer</span>. Lorem
+          <span className="font-bold text-white">Software Developer</span>. Lorem
           Ipsum is simply dummy text of the printing and typesetting industry.
           Lorem Ipsum has been the industry's standard dummy text ever since the
           1500s, when an unknown printer took a galley of type and scrambled it
