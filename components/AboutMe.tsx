@@ -11,24 +11,23 @@ const AboutMe = () => {
           A Story about me.
         </h1>
         <p className="text-xl md:text-3xl font-medium md:leading-relaxed text-textColor">
-          I'm{" "}
+          I'm a{" "}
           <span className="font-bold tracking-wider text-white">
-            Nzeh Favour
+            Software Engineer
           </span>{" "}
           and I'm a freelance{" "}
-          <span className="font-bold text-white">Software Developer</span>. Lorem
-          Ipsum is simply dummy text of the printing and typesetting industry.
-          Lorem Ipsum has been the industry's standard dummy text ever since the
-          1500s, when an unknown printer took a galley of type and scrambled it
-          to make a type specimen book.
+          <span className="font-bold text-white">wed developer</span>. I have been writing code professionally for more than 3 years, 
+          with a focus on mobile development and cross-platform using React and Next.js framework. <br />
+          In my free time, I contribute to open-source libraries to solve real-world problems, 
+          which also helps in my learning path. Additionally, I love playing video games while listening to music.
         </p>
         <div className="w-[700px] grid grid-cols-1 md:grid-cols-2 gap-8">
           <AboutList title="Web design" />
-          <AboutList title="Graphic & print" />
+          {/* <AboutList title="Graphic & print" /> */}
           <AboutList title="iOS design" />
           <AboutList title="Front-end development" />
           <AboutList title="User experience" />
-          <AboutList title="Branding" />
+          {/* <AboutList title="Branding" /> */}
           <AboutList title="Back-end development" />
           <AboutList title="Responsive" />
           <AboutList title="Wordpress Website" />

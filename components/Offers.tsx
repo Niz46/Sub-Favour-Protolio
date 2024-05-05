@@ -13,23 +13,23 @@ const Offers = () => {
         </h1>
         <div className="w-full px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-20">
           <OfferCard
-            title="BRANDING"
-            subTitle="Branding is visually stunning designs that will leave you speechless"
+            title="MOBILE"
+            subTitle="Mobile developing native mobile applications for iOS and Android platforms."
             Icon={RxCopy}
           />
           <OfferCard
-            title="WEB DESIGN"
-            subTitle="Branding is visually stunning designs that will leave you speechless"
+            title="DESIGN"
+            subTitle="Design services for websites and mobile apps to create intuitive and user-friendly interfaces."
             Icon={SiAntdesign}
           />
           <OfferCard
-            title="Marketing"
-            subTitle="Branding is visually stunning designs that will leave you speechless"
+            title="MARKETING"
+            subTitle="Marketing involves promoting products services to attract and retain customers"
             Icon={FaChartPie}
           />
           <OfferCard
-            title="Development"
-            subTitle="Branding is visually stunning designs that will leave you speechless"
+            title="WEB"
+            subTitle="Web to create custom management systems for website management and content publishing."
             Icon={FaConnectdevelop}
           />
         </div>

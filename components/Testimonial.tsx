@@ -67,35 +67,32 @@ const Testimonial = () => {
           <Slider {...settings}>
             <div>
               <p className="text-xl text-textColor text-center leading-8">
-                <span className="text-white">Apple company CEO -</span> Lorem
-                ipsum dolor sit amet consectetur adipisicing elit. Aliquid
-                doloribus sed asperiores commodi earum consectetur dolorem,
-                eligendi animi minus. Reprehenderit laboriosam ipsa quia
-                dignissimos voluptatum aliquid et repudiandae laborum impedit
-                perferendis quis, sapiente doloribus eaque maxime nemo facere?
-                At, facilis!
+                <span className="text-white">Genesys Company Manager -</span> During 
+                his tenure at Genesis, Enugu, their leadership as a Front-end Developer 
+                was transformative. Their work on the School Manager project 
+                led to a 20% increase in efficiency and a 30% reduction in administrative 
+                workload through developing a web portal. His consistently demonstrated 
+                dedication and innovation, making significant contributions to our organization.
               </p>
             </div>
             <div>
               <p className="text-xl text-textColor text-center leading-8">
-                <span className="text-white">Google company CTO -</span> Lorem
-                ipsum dolor sit amet consectetur adipisicing elit. Aliquid
-                doloribus sed asperiores commodi earum consectetur dolorem,
-                eligendi animi minus. Reprehenderit laboriosam ipsa quia
-                dignissimos voluptatum aliquid et repudiandae laborum impedit
-                perferendis quis, sapiente doloribus eaque maxime nemo facere?
-                At, facilis!
+                <span className="text-white">Clinico Product Owner -</span> During 
+                his tenure as our Decentralized Developer, they spearheaded 
+                the implementation of a revolutionary blockchain system at Clinico, 
+                Enugu. Their expertise led to a 60% reduction in data loss, from 
+                40% to 20%. He brought dedication and innovation to the project, 
+                setting a new standard for data security in our industry.    
               </p>
             </div>
             <div>
               <p className="text-xl text-textColor text-center leading-8">
-                <span className="text-white">Amazon company CEO -</span> Lorem
-                ipsum dolor sit amet consectetur adipisicing elit. Aliquid
-                doloribus sed asperiores commodi earum consectetur dolorem,
-                eligendi animi minus. Reprehenderit laboriosam ipsa quia
-                dignissimos voluptatum aliquid et repudiandae laborum impedit
-                perferendis quis, sapiente doloribus eaque maxime nemo facere?
-                At, facilis!
+                <span className="text-white">Aptech Company Manager -</span> During 
+                Nzeh Favour's tenure as Team Lead at Aptech, Enugu, their collaborative 
+                efforts led to significant enhancements to our website. Using Adobe XD, 
+                they achieved a 12% drop in cart abandonments and a 32% boost in 2022 online 
+                sales. His leadership and expertise drove tangible improvements, making a 
+                lasting impact on our organization.
               </p>
             </div>
           </Slider>

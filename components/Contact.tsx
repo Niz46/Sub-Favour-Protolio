@@ -36,15 +36,15 @@ const Contact = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex flex-col items-center gap-3">
               <FaMap className="text-4xl text-designColor" />
-              <p className="text-sm tracking-wide">Muscat, Oman</p>
+              <p className="text-sm tracking-wide">Nzeh Favour</p>
             </div>
             <div className="flex flex-col items-center gap-3">
               <FaPhoneAlt className="text-4xl text-designColor" />
-              <p className="text-sm tracking-wide">+96824769821</p>
+              <p className="text-sm tracking-wide">+2347047872574</p>
             </div>
             <div className="flex flex-col items-center gap-3">
               <FaEnvelope className="text-4xl text-designColor" />
-              <p className="text-sm tracking-wide">noorjsdivs@gmail.com</p>
+              <p className="text-sm tracking-wide">favournzeh02@gmail.com</p>
             </div>
           </div>
 
@@ -97,12 +97,12 @@ const Contact = () => {
               <p>
                 or say 'Hello' -{" "}
                 <span className="font-semibold text-designColor">
-                  reactjsbd@gmail.com
+                  favournzeh02@gmail.com
                 </span>
               </p>
             </div>
-            <a href="https://reactbd.com/" target="_blank">
-              <p>© 2022 reactBD All rights reserved.</p>
+            <a href="#" target="_blank">
+              <p>© 2023 All rights reserved.</p>
             </a>
           </div>
         </div>
