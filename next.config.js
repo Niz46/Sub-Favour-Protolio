@@ -2,7 +2,7 @@
 module.exports = {
   reactStrictMode: true,
   distDir: "dist",
-  // output: "export",
+  output: "export",
   images: {
     unoptimized: true,
   }
